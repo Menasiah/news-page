@@ -157,7 +157,7 @@ p{
         
     }
     main{
-        width: 103%;
+        width: 100%;
         height: inherit;
         margin: 0%;
         padding-left:2%;
@@ -173,7 +173,7 @@ p{
     .mobile{
         display: block;
         position: absolute;
-        right: 10px;
+        right: 0%;
         visibility: visible;
         /* z-index: -1; */
     }
@@ -183,8 +183,8 @@ p{
     }
 
     .home-image{
-        width: 95%;
-        height: 400px;
+        width: 90%;
+        height: 350px;
         border-radius: 2px;
         padding-left: 0%;
     }
@@ -215,8 +215,8 @@ p{
 
     .mobile2{
         line-height: 40px;
-        width: 400px;
-        height: 100%;
+        width: 20;
+        height: 80%;
         display: block;
         position: absolute;
         right: 0;
